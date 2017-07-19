@@ -5,7 +5,7 @@
 
 int main()
 {
-	int gd =DETECT , gm;
+	int gd =DETECT , gm;// varun
 	int dx,dy,steps,x,y,xin,yin,x0, y0, x1, y1;
 	
 	printf("\nEnter first co-ordinate as x0,y0:\n");
